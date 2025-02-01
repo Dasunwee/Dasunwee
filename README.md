@@ -39,16 +39,16 @@ I’m **Dasun Weerawardhana**, an aspiring **System Administrator** passionate a
 
 ### 🌟 **Featured Projects**
 🚀 **Mobile Marvels (E-commerce Platform for Smartphones)**  
-🔗 [GitHub Repo]([https://github.com/Dasunwee/MobileMarvels](https://github.com/Dasunwee/Mobile-Marvels---Full-Stack-E-commerce-Website.git))  
+🔗 [GitHub Repo] [https://github.com/Dasunwee/MobileMarvels](https://github.com/Dasunwee/Mobile-Marvels---Full-Stack-E-commerce-Website.git)
 
 📝 **Quiz App with User Authentication**  
-🔗 [GitHub Repo]([https://github.com/Dasunwee/QuizApp](https://github.com/Dasunwee/displays-the-current-weather.git))  
+🔗 [GitHub Repo] [https://github.com/Dasunwee/QuizApp](https://github.com/Dasunwee/displays-the-current-weather.git)
 
 🌐 **Weather App using OpenWeatherMap API**  
-🔗 [GitHub Repo]([https://github.com/Dasunwee/WeatherApp](https://github.com/Dasunwee/displays-the-current-weather.git))  
+🔗 [GitHub Repo] [https://github.com/Dasunwee/WeatherApp](https://github.com/Dasunwee/displays-the-current-weather.git)  
 
 🌐 **Student Mangement System**  
-🔗[GitHub Repo]([[https://github.com/Dasunwee/WeatherApp](https://github.com/Dasunwee/displays-the-current-weather.git)](https://github.com/Dasunwee/StudentManagementSystem-ITBNM-2211-0194.git))  
+🔗[GitHub Repo] [[https://github.com/Dasunwee/WeatherApp](https://github.com/Dasunwee/displays-the-current-weather.git)](https://github.com/Dasunwee/StudentManagementSystem-ITBNM-2211-0194.git)  
  
 ---
 
